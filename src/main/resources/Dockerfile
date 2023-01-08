@@ -1,0 +1,4 @@
+FROM postgres:alpine
+ENV POSTGRES_DB postgres
+ENV POSTGRES_USER david
+ENV POSTGRES_PASSWORD password
